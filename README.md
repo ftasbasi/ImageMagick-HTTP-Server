@@ -8,5 +8,6 @@ Run: (Linux terminal)
 ./server
 
 # SAMPLE SCREENSHOT
-original image
+Original image
+
 ![alt text](https://static.birgun.net/resim/haber-detay-resim/2020/01/30/abb-ve-odtu-den-eymir-isbirligi-681848-5.jpg)
