@@ -9,4 +9,4 @@ Run: (Linux terminal)
 
 # SAMPLE SCREENSHOT
 original image
-![alt text](static.birgun.net/resim/haber-detay-resim/2020/01/30/abb-ve-odtu-den-eymir-isbirligi-681848-5.jpg)
+![alt text](https://static.birgun.net/resim/haber-detay-resim/2020/01/30/abb-ve-odtu-den-eymir-isbirligi-681848-5.jpg)
