@@ -1,4 +1,4 @@
-// Server side C program to demonstrate HTTP Server programming
+// Server side C++ program to demonstrate HTTP Server programming
 #include <stdio.h>
 #include <sys/socket.h>
 #include <unistd.h>
