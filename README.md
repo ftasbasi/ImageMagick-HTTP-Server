@@ -26,7 +26,7 @@ Grayscale
 
 Crop
 
-![alt text](https://raw.githubusercontent.com/ftasbasi/ImageMagick-HTTP-Server/main/images/crop:100x80.png)
+![alt text](https://raw.githubusercontent.com/ftasbasi/ImageMagick-HTTP-Server/main/images/crop%3A100x80.png)
 
 Rotate
 
