@@ -18,7 +18,7 @@ Operations are ImageMagick: resize, rotate, crop, grayscale.
 
 Resize
 
-![alt text](https://raw.githubusercontent.com/ftasbasi/ImageMagick-HTTP-Server/main/images/resize:180x80.png)
+![alt text](https://raw.githubusercontent.com/ftasbasi/ImageMagick-HTTP-Server/main/images/resize%3A180x80.png)
 
 Grayscale
 
