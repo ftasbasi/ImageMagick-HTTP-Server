@@ -1,3 +1,6 @@
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+
+
 A simple HTTP webserver that performs on-the-fly image resizing from the provided source image url (using the ImageMagick library).
 
 The format of the URL that is served must be as follows
